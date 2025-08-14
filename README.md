@@ -1,1 +1,1 @@
-[![Slides preview](SignalProcessing_ApproachAndResults.png)](slides_header.pdf)
+[![Slides preview](slides_header.png)](SignalProcessing_ApproachAndResults.pdf)
